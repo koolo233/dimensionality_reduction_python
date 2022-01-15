@@ -5,7 +5,7 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 
 ## ToDo List
 
-- [ ] PCA(Principal Component Analysis, 主成分分析)
+- [x] PCA(Principal Component Analysis, 主成分分析)
 - [ ] LDA(Linear Discriminant Analysis, 线性判别分析, Fisher)
 - [ ] LLE(Locally Linear Embedding, 局部线性嵌入)
 - [ ] LE(Laplacian Eigenmap, 拉普拉斯特征映射)
@@ -17,3 +17,10 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 - [ ] PLS(partial least squares, 偏最小二乘回归)
 - [ ] Auto Encoder-Decoder
 - [ ] RP(random projection, 随机映射)
+
+## 对比
+
+和sklearn等库中直接调用函数得到的结果进行对比
+
+#### [PCA](https://github.com/koolo233/dimensionality_reduction_python/blob/main/01_PCA/PCA.ipynb)
+![avatar](./images/PCA_output.png)
