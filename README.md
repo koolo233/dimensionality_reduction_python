@@ -6,8 +6,8 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 ## ToDo List
 
 - [x] PCA(Principal Component Analysis, 主成分分析)
-- [x] LDA(Linear Discriminant Analysis, 线性判别分析, Fisher)
-- [ ] LLE(Locally Linear Embedding, 局部线性嵌入)
+- [x] FLD(Fisher's Linear Discriminant, Fisher线性判别, Fisher)
+- [x] LLE(Locally Linear Embedding, 局部线性嵌入)
 - [ ] LE(Laplacian Eigenmap, 拉普拉斯特征映射)
 - [ ] SNE(Stochastic Neighbor Embedding)
 - [ ] t-SNE(t-distributed stochastic neighbor embedding)
@@ -25,5 +25,8 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 #### [PCA](https://github.com/koolo233/dimensionality_reduction_python/blob/main/01_PCA/PCA.ipynb)
 ![avatar](./images/PCA_output.png)
 
-#### [PCA](https://github.com/koolo233/dimensionality_reduction_python/blob/main/02_FLD/Fisher.ipynb)
+#### [FLD](https://github.com/koolo233/dimensionality_reduction_python/blob/main/02_FLD/Fisher.ipynb)
 ![avatar](./images/FLD_output.png)
+
+#### [LLE](https://github.com/koolo233/dimensionality_reduction_python/blob/main/03_LLE/LLE.ipynb)
+![avatar](./images/LLE_output.png)
