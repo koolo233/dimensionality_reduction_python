@@ -9,10 +9,12 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 - [x] FLD(Fisher's Linear Discriminant, Fisher线性判别, Fisher)
 - [x] LLE(Locally Linear Embedding, 局部线性嵌入)
 - [x] LE(Laplacian Eigenmap, 拉普拉斯特征映射)
+- [ ] MDS(Multidimensional Scaling, 多维尺度分析)
+- [ ] ISOMAP(Isometric Mapping, 等距映射)
+- [ ] NMDS(Non-metric multidimensional scaling, 非度量多维尺度分析)
 - [ ] SNE(Stochastic Neighbor Embedding)
 - [ ] t-SNE(t-distributed stochastic neighbor embedding)
 - [ ] UMAP(Uniform Manifold Approximation and Projection for Dimension Reduction, 基于一致流形逼近和投影的降维技术)
-- [ ] NMDS(Non-metric multidimensional scaling, 非度量多维尺度分析)
 - [ ] PCoA(Principal Co-ordinates Analysis, 主坐标分析)
 - [ ] PLS(partial least squares, 偏最小二乘回归)
 - [ ] Auto Encoder-Decoder
