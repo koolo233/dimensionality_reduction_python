@@ -9,7 +9,7 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 - [x] FLD(Fisher's Linear Discriminant, Fisher线性判别, Fisher)
 - [x] LLE(Locally Linear Embedding, 局部线性嵌入)
 - [x] LE(Laplacian Eigenmap, 拉普拉斯特征映射)
-- [ ] MDS(Multidimensional Scaling, 多维尺度分析)
+- [x] MDS(Multidimensional Scaling, 多维尺度分析)
 - [ ] ISOMAP(Isometric Mapping, 等距映射)
 - [ ] NMDS(Non-metric multidimensional scaling, 非度量多维尺度分析)
 - [ ] SNE(Stochastic Neighbor Embedding)
@@ -35,3 +35,6 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 
 #### [LE](https://github.com/koolo233/dimensionality_reduction_python/blob/main/04_LE/LE.ipynb)
 ![avatar](./images/LE_output.png)
+
+#### [MDS](https://github.com/koolo233/dimensionality_reduction_python/blob/main/05_MDS/MDS.ipynb)
+![avatar](./images/MDS_output.png)
