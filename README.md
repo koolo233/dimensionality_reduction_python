@@ -24,17 +24,17 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 
 和sklearn等库中直接调用函数得到的结果进行对比
 
-#### [PCA](https://github.com/koolo233/dimensionality_reduction_python/blob/main/01_PCA/PCA.ipynb)
+#### [PCA](./01_PCA/PCA.ipynb)
 ![avatar](./images/PCA_output.png)
 
-#### [FLD](https://github.com/koolo233/dimensionality_reduction_python/blob/main/02_FLD/Fisher.ipynb)
+#### [FLD](./02_FLD/Fisher.ipynb)
 ![avatar](./images/FLD_output.png)
 
-#### [LLE](https://github.com/koolo233/dimensionality_reduction_python/blob/main/03_LLE/LLE.ipynb)
+#### [LLE](./03_LLE/LLE.ipynb)
 ![avatar](./images/LLE_output.png)
 
-#### [LE](https://github.com/koolo233/dimensionality_reduction_python/blob/main/04_LE/LE.ipynb)
+#### [LE](./04_LE/LE.ipynb)
 ![avatar](./images/LE_output.png)
 
-#### [MDS](https://github.com/koolo233/dimensionality_reduction_python/blob/main/05_MDS/MDS.ipynb)
+#### [MDS](./05_MDS/MDS.ipynb)
 ![avatar](./images/MDS_output.png)
