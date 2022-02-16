@@ -10,7 +10,7 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 - [x] LLE(Locally Linear Embedding, 局部线性嵌入)
 - [x] LE(Laplacian Eigenmap, 拉普拉斯特征映射)
 - [x] MDS(Multidimensional Scaling, 多维尺度分析)
-- [ ] ISOMAP(Isometric Mapping, 等距映射)
+- [x] ISOMAP(Isometric Mapping, 等距映射)
 - [ ] NMDS(Non-metric multidimensional scaling, 非度量多维尺度分析)
 - [ ] SNE(Stochastic Neighbor Embedding)
 - [ ] t-SNE(t-distributed stochastic neighbor embedding)
@@ -38,3 +38,6 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 
 #### [MDS](./05_MDS/MDS.ipynb)
 ![avatar](./images/MDS_output.png)
+
+#### [ISOMAP](./06_ISOMAP/ISOMAP.ipynb)
+![avatar](./images/ISOMAP_output.png)
