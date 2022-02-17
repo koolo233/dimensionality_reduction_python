@@ -12,12 +12,15 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 - [x] PCoA(Principal Coordinates Analysis, 主坐标分析, Classical Multidimensional Scaling, 经典多维尺度分析)
 - [x] ISOMAP(Isometric Mapping, 等距映射)
 - [ ] NMDS(Non-metric multidimensional scaling, 非度量多维尺度分析)
+- [ ] Kernel PCA(Kernel Principle Component Analysis, 核主成分分析)
+- [ ] RP(random projection, 随机映射)
+- [ ] Diffusion maps(Diffusion maps, 扩散映射)
+- [ ] LLC(Locally Linear Coordination, 局部线性调和)
+- [ ] Auto Encoder-Decoder
 - [ ] SNE(Stochastic Neighbor Embedding)
 - [ ] t-SNE(t-distributed stochastic neighbor embedding)
 - [ ] UMAP(Uniform Manifold Approximation and Projection for Dimension Reduction, 基于一致流形逼近和投影的降维技术)
-- [ ] PLS(partial least squares, 偏最小二乘回归)
-- [ ] Auto Encoder-Decoder
-- [ ] RP(random projection, 随机映射)
+- [ ] LargeVis
 
 ## 对比
 
