@@ -11,7 +11,7 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 - [x] LE(Laplacian Eigenmap, 拉普拉斯特征映射)
 - [x] PCoA(Principal Coordinates Analysis, 主坐标分析, Classical Multidimensional Scaling, 经典多维尺度分析)
 - [x] ISOMAP(Isometric Mapping, 等距映射)
-- [ ] NMDS(Non-metric multidimensional scaling, 非度量多维尺度分析)
+- [x] NMDS(Non-metric multidimensional scaling, 非度量多维尺度分析)
 - [ ] Kernel PCA(Kernel Principle Component Analysis, 核主成分分析)
 - [ ] RP(random projection, 随机映射)
 - [ ] Diffusion maps(Diffusion maps, 扩散映射)
@@ -43,3 +43,6 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 
 #### [ISOMAP](./06_ISOMAP/ISOMAP.ipynb)
 ![avatar](./images/ISOMAP_output.png)
+
+#### [NMDS](./07_NMDS/NMDS.ipynb)
+![avatar](./images/NMDS_output.png)
