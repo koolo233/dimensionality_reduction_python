@@ -13,7 +13,7 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 - [x] ISOMAP(Isometric Mapping, 等距映射)
 - [x] NMDS(Non-metric multidimensional scaling, 非度量多维尺度分析)
 - [x] KPCA(Kernel Principle Component Analysis, 核主成分分析)
-- [ ] RP(random projection, 随机映射)
+- [x] RP(random projection, 随机映射)
 - [ ] Diffusion maps(Diffusion maps, 扩散映射)
 - [ ] LLC(Locally Linear Coordination, 局部线性调和)
 - [ ] Auto Encoder-Decoder
