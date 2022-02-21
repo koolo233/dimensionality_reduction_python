@@ -15,8 +15,7 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 - [x] KPCA(Kernel Principle Component Analysis, 核主成分分析)
 - [x] RP(random projection, 随机映射)
 - [ ] Diffusion maps(Diffusion maps, 扩散映射)
-- [ ] LLC(Locally Linear Coordination, 局部线性调和)
-- [ ] Auto Encoder-Decoder
+- [x] Auto Encoder-Decoder
 - [ ] SNE(Stochastic Neighbor Embedding)
 - [ ] t-SNE(t-distributed stochastic neighbor embedding)
 - [ ] UMAP(Uniform Manifold Approximation and Projection for Dimension Reduction, 基于一致流形逼近和投影的降维技术)
@@ -49,3 +48,6 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 
 #### [KPCA](./08_KPCA/KPCA.ipynb)
 ![avatar](./images/KPCA_output.png)
+
+#### [AutoEncoder](./11_AE/AutoEncoder.ipynb)
+![avatar](./images/AE_output.png)
