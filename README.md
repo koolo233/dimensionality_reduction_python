@@ -16,7 +16,7 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 - [x] RP(random projection, 随机映射)
 - [ ] Diffusion maps(Diffusion maps, 扩散映射)
 - [x] Auto Encoder-Decoder
-- [ ] SNE(Stochastic Neighbor Embedding)
+- [x] SNE(Stochastic Neighbor Embedding)
 - [ ] t-SNE(t-distributed stochastic neighbor embedding)
 - [ ] UMAP(Uniform Manifold Approximation and Projection for Dimension Reduction, 基于一致流形逼近和投影的降维技术)
 - [ ] LargeVis
@@ -51,3 +51,6 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 
 #### [AutoEncoder](./11_AE/AutoEncoder.ipynb)
 ![avatar](./images/AE_output.png)
+
+#### [SNE](./12_SNE/SNE.ipynb)
+![avatar](./images/SNE_output.png)
