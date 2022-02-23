@@ -54,3 +54,6 @@ Python implementation of some dimensionality reduction methods(PCA, LDA, LLE, NM
 
 #### [SNE](./12_SNE/SNE.ipynb)
 ![avatar](./images/SNE_output.png)
+
+#### [tSNE](./13_tSNE/tSNE.ipynb)
+![avatar](./images/tSNE_output.png)
